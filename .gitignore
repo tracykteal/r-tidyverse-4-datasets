@@ -1,6 +1,6 @@
 # sandpaper files
 episodes/*html
-# site/*
+site/*
 !site/README.md
 
 # History files
@@ -44,7 +44,7 @@ vignettes/*.pdf
 .Renviron
 
 # pkgdown site
-# docs/
+docs/
 
 # translation temp files
 po/*~
